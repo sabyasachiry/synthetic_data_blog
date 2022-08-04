@@ -15,7 +15,7 @@
 - The answer to questions above is Synthetic data, a method to statistically generate artificial data using simulations to meet specific needs while improving data utility for improved data parivacy and protection.
 
 <p align="center">
-  <img width: 10% src="gettyimages-107758168-2048x2048.jpg" alt="Prism Image">
+  <img width: 100% src="gettyimages-107758168-2048x2048.jpg" alt="Prism Image">
 </p>
 
 
@@ -39,7 +39,7 @@ New innovations in Financial Services is increasingly underpinned by technologic
 Despite the growth of AI, there are still barriers to overcome. The respondents consider quality of data as the biggest hurdle in AI implementation in addition to the sub issues including data collection and data imbalance. Data confidentiality and Data Regulation is also seen as causing bottleneck situation to AI implementation limiting usability of data, while concentraiting resources on time consuming activities including cleansing and data collection. As shown in the figure below significant proportion of businessess (83%) perceive the regulation around sharing personal information or data between jurisdiction to be significnatly problematic for the implementation of AI.
 
 <p align="center">
-  <img width: 10% src="./chart1.jpg" alt="Material Bread logo">
+  <img width: 100% src="./chart1.jpg" alt="Material Bread logo">
   <br><font size="2" style="font-style: italic"> figure1: Perceived burden of data-related regulatory framework aspects <br><a href="https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/">Ref: Global AI in Financial Services</a></br></font></br>
 </p>
 
