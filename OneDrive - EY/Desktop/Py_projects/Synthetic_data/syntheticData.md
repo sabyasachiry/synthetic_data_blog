@@ -9,34 +9,38 @@
 - What if you monitize on new products and services by synthesizing real time customer data without compromising personal information? 
 
 - The answer to questions above is Synthetic data, a method to statistically generate artificial data using simulations to meet specific needs while improving data utility for improved data parivacy and protection.
+
 <br>
 </br>
 <br align="center">
   <img width=100% src="gettyimages-107758168-2048x2048_flipped.jpg" alt="Prism Image">
 </br>
+<br>
+</br>
 
-## What is synthetic data and why it is used?
+The benefits of implementing AI in finance is monumnetal from chatbot assistants to fraud detection and task automation help streamline processes and therefore vastly improve customer experience. Aggregated potential cost savings for banks from AI applications is estimated at [$447 billion by 2023](https://www.businessinsider.com/ai-in-banking-report?r=US&IR=T) combined in front and back office.
+
+The benefits in Financial Services is increasingly underpinned by technological advances in AI and Machine Learning, big data and cloud infrastructure. According to the [Global Survey on AI in Financial Services](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/), 77% of respondents believe AI will be of high or very high overall relevance to their organisations playing a key role in product development and revenue creation, process automation, risk management, effective customer support and client acquisition. In all deployment use cases, the respondents noted that the Machine Learning and AI's biggest impact will yield from greater accuracy and scalability of the AI model.
+
+Despite the growth of AI, there are considerable barriers to overcome. Quality of data is seen as the biggest hurdle in AI implementation in addition to the sub issues including data collection and data imbalance. Data confidentiality and data regulation is also seen as causing bottleneck situation to AI implementation limiting utility of data. Often organisations have to put in extra resources on time consuming activities such as data wrangling. Nearly [83% of respondents](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/) perceive the regulation around sharing personal information or data between jurisdiction to be significnatly problematic for the implementation of AI.
 
 
+
+
+
+
+## Examples
+
+Think of clicinal trial management which would require a large cohort size from a wide range of demography and rigourous trials prior to scientific and medical acceptance. This process can be time consuming and legnthy as it will require both volume and variety of both clinical and real world data to conduct thorough statistical analysis. In addition to that hidden knowledge within the data collected adds further challenges. 
+
+## What is synthetic data and how is it used in finance?
 
 ## Methods of generating sysnthetic data
 
 Methods to use to produce synthetic dataset and availability matrics to ensure robust quality of generated datasets. 
 
-
-## What is AI?
-
-
 ## How Synthetic data is used in finance?
 
-New innovations in Financial Services is increasingly underpinned by technological advances in AI and Machine Learning, big data and cloud infrastructure. According to the [Global Survey on AI in Financial Services](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/), `77% of respondents believe AI will be of high or very high overall relevance to their organisations playing a key role in product development and revenue creation, process automation, risk management, effective customer support and client acquisition.` In all deployment use cases, the respondents noted that the Machine Learning and AI's biggest impact will yield from greater accuracy and scalability of the AI model in addition to building new products and therefore creating competitive advantage. The best requires on quality and volume of data to train the model but this can be difficult to obtain, if not restricted.
-
-Despite the growth of AI, there are still barriers to overcome. The respondents consider quality of data as the biggest hurdle in AI implementation in addition to the sub issues including data collection and data imbalance. Data confidentiality and Data Regulation is also seen as causing bottleneck situation to AI implementation limiting usability of data, while concentraiting resources on time consuming activities including cleansing and data collection. As shown in the figure below significant proportion of businessess (83%) perceive the regulation around sharing personal information or data between jurisdiction to be significnatly problematic for the implementation of AI.
-
-<p align="center">
-  <img width: 100% src="./chart1.jpg" alt="Material Bread logo">
-  <br><font size="2" style="font-style: italic"> figure1: Perceived burden of data-related regulatory framework aspects <br><a href="https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/">Ref: Global AI in Financial Services</a></br></font></br>
-</p>
 
 Think of clicinal trial management which would require a large cohort size from a wide range of demography and rigourous trials prior to scientific and medical acceptance. This process can be time consuming and legnthy as it will require both volume and variety of both clinical and real world data to conduct thorough statistical analysis. In addition to that hidden knowledge within the data collected adds further challenges. 
 
