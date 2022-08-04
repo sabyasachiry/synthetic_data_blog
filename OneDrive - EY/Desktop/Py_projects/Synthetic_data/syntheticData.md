@@ -1,7 +1,3 @@
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">BLOG SYNTHETIC DATA</a>
-</div>
-
 
 # Scaling Machine Learning Systems with Synthetic Data #
 
@@ -14,9 +10,9 @@
 
 - The answer to questions above is Synthetic data, a method to statistically generate artificial data using simulations to meet specific needs while improving data utility for improved data parivacy and protection.
 
-<p align="center">
+<br align="center">
   <img width: 10% src="gettyimages-107758168-2048x2048.jpg" alt="Prism Image">
-</p>
+</br>
 
 
 
