@@ -10,8 +10,8 @@
 
 - The answer to questions above is Synthetic data, a method to statistically generate artificial data using simulations to meet specific needs while improving data utility for improved data parivacy and protection.
 
-<br align="center">
-  <img width: 10% src="gettyimages-107758168-2048x2048.jpg" alt="Prism Image">
+<br align="center", width=100%>
+  <img src="gettyimages-107758168-2048x2048.jpg" alt="Prism Image">
 </br>
 
 
