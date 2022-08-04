@@ -9,12 +9,11 @@
 - What if you monitize on new products and services by synthesizing real time customer data without compromising personal information? 
 
 - The answer to questions above is Synthetic data, a method to statistically generate artificial data using simulations to meet specific needs while improving data utility for improved data parivacy and protection.
-
-<br align="center", width=100%>
-  <img src="gettyimages-107758168-2048x2048.jpg" alt="Prism Image">
+<br>
 </br>
-
-
+<br align="center">
+  <img width=100% src="gettyimages-107758168-2048x2048.jpg" alt="Prism Image">
+</br>
 
 ## What is synthetic data and why it is used?
 
