@@ -12,7 +12,7 @@
 <br>
 </br>
 <br align="center">
-  <img width=100% src="gettyimages-107758168-2048x2048.jpg" alt="Prism Image">
+  <img width=100% src="gettyimages-107758168-2048x2048_flipped.jpg" alt="Prism Image">
 </br>
 
 ## What is synthetic data and why it is used?
