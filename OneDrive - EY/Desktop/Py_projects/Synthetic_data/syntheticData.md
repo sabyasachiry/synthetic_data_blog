@@ -26,9 +26,14 @@ Despite the growth of AI, there are considerable barriers to overcome. Quality o
 
 The above has hilighted urgency in need to optimize data utility and share data using innovative privacy enhancing technologies to prevent data sharing concerns. 
 
+
 ## What is synthetic data?
 
-![Synthetic data](44163_2021_16_Fig1_HTML.jpg)
+<div align="center">
+  <img width="700" src="./44163_2021_16_Fig1_HTML.jpg" alt="Synthetic data">
+  <br><font size="2" style="font-style: italic"> figure1: Synthetic data use: exploring use cases to optimise data utility <br><a href="https://link.springer.com/article/10.1007/s44163-021-00016-y">Ref: Synthetic data use [3]</a></br></font></br>
+</div>
+
 
 Synthetic data is 
 
