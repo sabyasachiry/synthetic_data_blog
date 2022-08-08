@@ -46,6 +46,7 @@ A research experiement in IDS shows that synthetic data samples generated using 
 
 ## External, Secondary data
 
+
 ## Vendor and client assessment
 
 ## Software testing
@@ -55,6 +56,11 @@ A research experiement in IDS shows that synthetic data samples generated using 
 ## Cross organizational sharing
 
 ## External Sharing
+
+Sharing data can add a great deal of benefits to financial services. This includes acquiring data from third parties, sharing data with vendors, and collaborative data sharing for effectiveness of customer service. The benefit of data sharing is not only limited to relying on third party credit report or analysing market sentiment on social media but also in effective implementation of risk management framework speeding up with client onboarding while complying with KYC/AML regulations.
+
+
+Financial data - such as consumer transaction records, account payments, claims and underwritings is highly sensitive and subject to stringent data protection obligations and data privacy laws [5]. Sharing 
 
 ## Synthetic data properties
 
@@ -129,3 +135,5 @@ Refs:
 [3] [Synthetic data use: Medical trial example](https://link.springer.com/article/10.1007/s44163-021-00016-y)
 
 [4] [Effect of balancing data using synthetic data on the performance of machine learning classifiers for Intrusion Detection in Computer Networks](https://arxiv.org/pdf/2204.00144.pdf)
+
+[5] [Synthetic data to support financial services innovation](https://www.fca.org.uk/publication/call-for-input/synthetic-data-to-support-financial-services-innovation.pdf)
