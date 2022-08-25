@@ -1,13 +1,13 @@
-
 # Scaling Machine Learning Systems with Synthetic Data #
+
 
 - Wouldn't it be great to have access to large pool of quality data to increase organizational competitiveness and innovations using AI?
 
-- What if you can improve utility of data by sharing it with  business partners and governement without privacy concerns while improving collaboration and building trust?
+- What if you can improve utility of data by sharing it with  trusted business partners and governement without privacy concerns while improving collaboration and building trust?
 
-- What if you monitize on new products and services by synthesizing real time customer data without compromising personal information?
+- What if you monitize on new products and services by synthesizing real time customer data without compromising privacy information? 
 
-- The answer to questions above is Synthetic data, a method to statistically generate artificial data using simulations, to meet specific organisational needs while improving data utility, data parivacy and protection.
+- The answer to questions above is Synthetic Data, a method to statistically generate artificial data using simulations to meet specific organizational needs while improving data utility for improved data parivacy and protection.
 
 <br>
 </br>
@@ -17,20 +17,20 @@
 <br>
 </br>
 
-The benefits of implementing AI in finance is monumnetal from chatbot assistants to fraud detection and task automation help streamline processes and therefore vastly improve customer experience. Aggregated potential cost savings for banks from AI applications is estimated at [$447 billion by 2023](https://www.businessinsider.com/ai-in-banking-report?r=US&IR=T) combined in front and back office.
+The benefits of implementing AI in finance is monumnetal. From natural language understanding to chatbots,  and intelligence automation to fraud detection has helped streamline processes and therefore vastly improve customer experience. By 2023, a potential cost saving of [$447 billion](https://www.businessinsider.com/ai-in-banking-report?r=US&IR=T) is estimated in banking alone from AI applications.
 
-The benefits in Financial Services is increasingly underpinned by technological advances in AI and Machine Learning, big data and cloud infrastructure. According to the [Global Survey on AI in Financial Services](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/), 77% of respondents believe AI will be of high or very high overall relevance to their organisations playing a key role in product development and revenue creation, process automation, risk management, effective customer support and client acquisition. In all deployment use cases, the respondents noted that the Machine Learning and AI's biggest impact will yield from greater accuracy of model and scalability of the AI model.
+The benefits to Financial Services is increasingly underpinned by technological advances in AI and Machine Learning, big data and cloud infrastructure. According to the [Global Survey on AI in Financial Services](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/), 77% of respondents believe AI will be of high or very high overall relevance to their organisations playing key role in revenue creation by customer support and client acquisitions, risk management, process automation, and product development. In all deployment use cases, the respondents noted that the Machine Learning and AI's biggest impact will yield from greater model accuracy and scalability.
 
-Despite the growth of in adaptation of AI, there are considerable barriers to overcome. Quality of data used to train a model is seen as the biggest hurdle in AI implementation in addition to the sub issues including data collection and data imbalance. Data confidentiality and data regulation is also causing bottleneck situation limiting utility of data. This is because often organisations have to put in extra resources on time consuming activities such as data acquisition and data cleansing. Furthermore, nearly [83% of respondents](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/) perceive the regulation around sharing customer information or data between jurisdiction to be significnatly problematic for their investment in AI.
+Despite the growth of AI, there are considerable barriers to overcome. Quality of data to train model is seen as the biggest hurdle in AI implementation in addition to sub issues including data collection and data imbalance. Data confidentiality and data privacy is also mildly perceived as causing bottleneck situation to AI implementation limiting utility of data. Often organisations have to put in extra resources on time consuming activities such as data cleaning. Nearly [83% of respondents](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/) believe that regulation around cross-organisational data sharing of personal information between jurisdiction to be significnatly problematic for AI implementation. 
 
-This has hilighted an urgency in need to optimize data utility and sharing data using innovative privacy enhancing technologies.
+The above has hilighted urgency in need to optimize data utility and share data using innovative privacy enhancing technologies to prevent data sharing concerns. 
 
 ## What is synthetic data?
 
-**Synthetic data** is created artificially, mimicking appropriate statistical distributions and mathematical properties of real-world data. It is a form of data augmentation practice can be used across a range of activities including training, validation, evaluation of a model or for testing a new product.  
+**Synthetic data** is created artificially, by mimicking appropriate statistical distributions and mathematical properties of the real-world data. It is a form of data augmentation practice to generate balanced datasets. Synthetic data is used across a wide range of industries including financial services, government and public policy, medical, media and entertainment etc. can be used across a range of activities including training, validation, evaluation of a model or for testing a new product.  
 
 <div align="center">
-  <img width="700" src="./organizational_structure_syntheticdata.jpg" alt="Synthetic data">
+  <img width="700" src="./synthetic_diagram.jpg" alt="Synthetic data">
   <figcaption> figure1: Synthetic data use: Optimising data utility</figcaption>
 </div>
 
