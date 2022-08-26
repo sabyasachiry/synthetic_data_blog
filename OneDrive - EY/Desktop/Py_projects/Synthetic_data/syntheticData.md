@@ -55,11 +55,11 @@ A research experiement in IDS shows that synthetic data samples generated using 
 
 ## External Sharing
 
-Financial data - such as consumer transaction records, account payments, claims and underwritings is highly sensitive and subject to stringent data protection obligations and data privacy laws [5]. On the otherhand, Synthetic data lacks sensitive or personal information about real people. Especially important in financial services, where confidentiality of client data is extremely delicate, and leaks could lead to major legal and financial issues. For example, in 2014, a data breach at JP Morgan impacted 76 million users and was estimated to cost $100 million in fines for the company. 
+Financial data - such as consumer transaction records, account payments, claims and underwritings is highly sensitive and subject to stringent data protection obligations and data privacy laws [5]. Synthetic data on the otherhand masks out sensitive or personal information about real people while preserving statistical relations. An important feature for financial services, where confidentiality of client data is extremely delicate, and leaks could lead to major legal and financial issues. For example, in 2014, a data breach at JP Morgan impacted 76 million users and was estimated to cost $100 million in fines for the company. 
 
 _To add privacy preserving features_
 
-Synthetic data overcomes this issue by generating an artificial dataset without disclosing confidential information from the original dataset. Counter intuitively however, sharing Synthetic data can add a great deal of benefits to financial services. This includes acquiring data from third parties, sharing data with vendors, and collaborative data sharing with business partners for effective customer service. The benefit of sharing Synthetic data is not only limited to relying on third party credit report or analysing market sentiment on social media but also in effective implementation of risk management framework to speed up client onboarding process while complying with KYC/AML regulations.
+Organisation wide implementation of effective synthetic data policies can help generate artificial data from original data without disclosing information outside the organisation. Then the data can be shared with the trusted business partners, and third party vendors for effective customer service. In financial services benefits of sharing is not limited to relying on third party credit report or analysing market sentiments but also in effective implementation of risk management framework to speed up client onboarding process while complying with KYC/AML regulations.
 
 The Synthetic data can be shared internally and externally without much concern.
 
@@ -111,14 +111,13 @@ Synthetic environments for scenario planning is an increasingly popular choice i
 ## Use cases
 
 ## Insurance Usecase
-**Insurance companies** are compelled to make most out of data they collect from users as a result of digitisation, intense competition and a new set of emerging risks. However, their ability to do so is constrained by strictest privacy concerns, regulations, and legacy technology. Furthermore, regulatory developments such as [proposal to regulate AI systems](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) ,released by European Commission require, require fast adpting from insurance players. Synthetic data can help insurers address some of their data processing challenges.
+**Insurance companies** are compelled to make most out of data they collect from users as a result of digitisation, intense competition and a new set of emerging risks. However, their ability to do so is constrained by strict privacy concerns, regulatory compliance, and legacy technology. Furthermore, regulatory developments such as [proposal to regulate AI systems](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) ,released by European Commission require fast adoptation from insurance players. Synthetic data can help insurers address some of their data processing challenges.
 
-_"Most tabular customer data in the insurance field can be synthesized, including claim data, sales and churn data, as well as market and survey data. It’s an opportunity to identify, develop, and test new products that answer customers’ needs from data that complies with the strictest privacy and legal frameworks"_
-
-* Product Development: While complying with the strictest privacy framework, organisations can use synthetic data to identify, develop and test new products
-* Sales: With synthetic data it is possible to share real-time information across organisation or jurisdiction with secure exchange aiding to improvement in customer journey and so boosting customer conversion rate. 
-* 
- 
+* **Product Development**: While complying with the strictest privacy framework, organisations can use synthetic data to identify, develop and test new products at speed.
+* **Sales**: By enabling secure exchange of real-time information across organisation can improvement customer journey and therefore boosting customer conversion rate.
+* **Underwriting**: Synthetic data can provide statistican insights to model risks with precision boosting accuracy in underwriting process. 
+* **Contract management**: Utility of data increases when a model is scaled up to analyse large volume of data. With cloud technology this can be achieved easily while complying with data governance. 
+* **Claim management**: 
 
 
 
