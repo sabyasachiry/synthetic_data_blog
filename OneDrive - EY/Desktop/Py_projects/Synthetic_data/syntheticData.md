@@ -31,7 +31,7 @@ The above has hilighted urgency in need to optimize data utility and share data 
 
 Synthetic data is a privacy-enhancing technology and can be seen as a potential solution to financial services strugglig with privacy compliance and data access. A [study published by Gartner](https://www.gartner.com/en/doc/100-data-and-analytics-predictions-through-2025) predicts that by 2024, 60% of the data used for the development of AI and analytics solutions will be synthetically generated. Gartner is ranking Synthetic data as a [forward-looking privacy technology](https://www.gartner.com/document/3987903). MIT Technology Review describes Synthetic data as one of the [10 Breakthrough Technologies, 2022](https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/#synthetic-data-for-ai).
 
-<br></br>
+
 <div align="center">
   <img width="700" src="./synthetic_diagram.jpg" alt="Synthetic data">
   <figcaption> figure1: Synthetic data use: Optimising data utility</figcaption>
