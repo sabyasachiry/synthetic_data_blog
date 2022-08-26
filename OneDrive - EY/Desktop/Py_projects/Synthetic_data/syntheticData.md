@@ -113,11 +113,14 @@ Synthetic environments for scenario planning is an increasingly popular choice i
 ## Insurance Usecase
 **Insurance companies** are compelled to make most out of data they collect from users as a result of digitisation, intense competition and a new set of emerging risks. However, their ability to do so is constrained by strict privacy concerns, regulatory compliance, and legacy technology. Furthermore, regulatory developments such as [proposal to regulate AI systems](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) ,released by European Commission require fast adoptation from insurance players. Synthetic data can help insurers address some of their data processing challenges.
 
-* **Product Development**: While complying with the strictest privacy framework, organisations can use synthetic data to identify, develop and test new products at speed.
-* **Sales**: By enabling secure exchange of real-time information across organisation can improvement customer journey and therefore boosting customer conversion rate.
-* **Underwriting**: Synthetic data can provide statistican insights to model risks with precision boosting accuracy in underwriting process. 
-* **Contract management**: Utility of data increases when a model is scaled up to analyse large volume of data. With cloud technology this can be achieved easily while complying with data governance. 
-* **Claim management**: 
+* **Product Development**: Identify, develop and tests customer-facing products and services at speed while complying with the strictest privacy framework.
+* **Sales**: By enabling secure exchange of real-time information across insurance companies can improvement user experience boosting customer conversion rate.
+* **Underwriting**: Improve accuracy in underwriting process by modeling risks on balanced datasets with a greater control over statistical distribution.
+* **Contract management**: Utility of data increases when a model is scaled up to infer large volume of data. With cloud technology this can be achieved easily while complying with data governance policies.
+* **Claim management**: Quickly identify relational and behavioural patterns of users in large volume of data to strengthen fraud detection and claims management. 
+
+
+
 
 
 
