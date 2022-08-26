@@ -57,7 +57,7 @@ A research experiement in IDS shows that synthetic data samples generated using 
 
 Financial data - such as consumer transaction records, account payments, claims and underwritings is highly sensitive and subject to stringent data protection obligations and data privacy laws [5]. On the otherhand, Synthetic data lacks sensitive or personal information about real people. Especially important in financial services, where confidentiality of client data is extremely delicate, and leaks could lead to major legal and financial issues. For example, in 2014, a data breach at JP Morgan impacted 76 million users and was estimated to cost $100 million in fines for the company. 
 
-**Privacy Preserving - to add**
+_To add privacy preserving features_
 
 Synthetic data overcomes this issue by generating an artificial dataset without disclosing confidential information from the original dataset. Counter intuitively however, sharing Synthetic data can add a great deal of benefits to financial services. This includes acquiring data from third parties, sharing data with vendors, and collaborative data sharing with business partners for effective customer service. The benefit of sharing Synthetic data is not only limited to relying on third party credit report or analysing market sentiment on social media but also in effective implementation of risk management framework to speed up client onboarding process while complying with KYC/AML regulations.
 
@@ -87,27 +87,41 @@ Data augmentation is used for creating balanced data to train, validate and eval
 
 Synthetic environments for scenario planning is an increasingly popular choice in reinforcement learning applications. Synthetic data generated using [Reingforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) can simulate scenarios that have never been seen before. For instance toolkits such as OpenAI Gym –providing simulation environments to compare and develop unprecedented scenarios and edge-cases in both single and multi-agent context (Gulli, Kapoor & Pal, 2019).
 
-Variation AutoEncoder and Decoder:
+### Variation AutoEncoder and Decoder:
+
+![AutoEncoder](./encoder_decoder.png)
 
 
+### GAN
+
+![GAN](./GAN.png)
 
 
+### Divide & Conquer 
+
+![Divide & Conquer](./devide_and_conquer.png)
 
 
+[Generating Synthetic data 1](https://research.aimultiple.com/synthetic-data-generation/)
 
-
-
-
-
-
-[Generating synthetic data](https://research.aimultiple.com/synthetic-data-generation/)
+[Generating synthetic data 2](https://research.aimultiple.com/synthetic-data-generation/)
 
 
 
 ## Use cases
 
 ## Insurance Usecase
-**Insurance companies** are compelled to make most out of data they collect from users as a result of digitisation, intense competition and a new set of emerging risks. However, their ability to do so is constrained by stringent privacy concerns, regulations, and legacy technology.
+**Insurance companies** are compelled to make most out of data they collect from users as a result of digitisation, intense competition and a new set of emerging risks. However, their ability to do so is constrained by strictest privacy concerns, regulations, and legacy technology. Furthermore, regulatory developments such as [proposal to regulate AI systems](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) ,released by European Commission require, require fast adpting from insurance players. Synthetic data can help insurers address some of their data processing challenges.
+
+_"Most tabular customer data in the insurance field can be synthesized, including claim data, sales and churn data, as well as market and survey data. It’s an opportunity to identify, develop, and test new products that answer customers’ needs from data that complies with the strictest privacy and legal frameworks"_
+
+* Product Development: While complying with the strictest privacy framework, organisations can use synthetic data to identify, develop and test new products
+* Sales: With synthetic data it is possible to share real-time information across organisation or jurisdiction with secure exchange aiding to improvement in customer journey and so boosting customer conversion rate. 
+* 
+ 
+
+
+
 
 ## Financial usecase
 
