@@ -29,7 +29,7 @@ The above has hilighted urgency in need to optimize data utility and share data 
 
 **Synthetic data** is created artificially, by mimicking mathematical properties such as statistical distribution, probability distribution of the real-world data. It is a form of data augmentation practice to generate balanced datasets. Synthetic data is used across a wide range of industries including financial services, government,  pharma, medical, and media and entertainment. The concept of augmenting data is widely used across a variety of industries to imitate real-world scenarios. In ML/AI context it has an important use case in training, validating, evaluating ML applications, for scaling up new services and products with speed and accuracy. 
 
-Synthetic data is a privacy-enhancing technology and can be seen as a potential solution to financial services strugglig with privacy compliance and data access. A study published by [Gartner](https://www.gartner.com/en/doc/100-data-and-analytics-predictions-through-2025) predicts that by 2024, 60% of the data used for the development of AI and analytics solutions will be synthetically generated.
+Synthetic data is a privacy-enhancing technology and can be seen as a potential solution to financial services strugglig with privacy compliance and data access. A [study published by Gartner](https://www.gartner.com/en/doc/100-data-and-analytics-predictions-through-2025) predicts that by 2024, 60% of the data used for the development of AI and analytics solutions will be synthetically generated. Gartner is ranking Synthetic data as a [forward-looking privacy technology](https://www.gartner.com/document/3987903). MIT Technology Review describes Synthetic data as one of the [10 Breakthrough Technologies, 2022](https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/#synthetic-data-for-ai).
 
 <br></br>
 <div align="center">
@@ -55,7 +55,9 @@ A research experiement in IDS shows that synthetic data samples generated using 
 
 ## External Sharing
 
-Financial data - such as consumer transaction records, account payments, claims and underwritings is highly sensitive and subject to stringent data protection obligations and data privacy laws [5]. On the otherhand, Synthetic data lacks sensitive or personal information about real people. Especially important in financial services, where confidentiality of client data is extremely delicate, and leaks could lead to major legal and financial issues. For example, in 2014, a data breach at JP Morgan impacted 76 million users and was estimated to cost $100 million in fines for the company.
+Financial data - such as consumer transaction records, account payments, claims and underwritings is highly sensitive and subject to stringent data protection obligations and data privacy laws [5]. On the otherhand, Synthetic data lacks sensitive or personal information about real people. Especially important in financial services, where confidentiality of client data is extremely delicate, and leaks could lead to major legal and financial issues. For example, in 2014, a data breach at JP Morgan impacted 76 million users and was estimated to cost $100 million in fines for the company. 
+
+**Privacy Preserving - to add**
 
 Synthetic data overcomes this issue by generating an artificial dataset without disclosing confidential information from the original dataset. Counter intuitively however, sharing Synthetic data can add a great deal of benefits to financial services. This includes acquiring data from third parties, sharing data with vendors, and collaborative data sharing with business partners for effective customer service. The benefit of sharing Synthetic data is not only limited to relying on third party credit report or analysing market sentiment on social media but also in effective implementation of risk management framework to speed up client onboarding process while complying with KYC/AML regulations.
 
@@ -79,18 +81,38 @@ The Synthetic data can be shared internally and externally without much concern.
 
 ## How can you generate synthetic data?
 
+[Model generation diagrams](https://www.statice.ai/post/how-generate-synthetic-data)
+
 Data augmentation is used for creating balanced data to train, validate and evaluate models covering a wide range of use-cases and unforeseen events. For instance,  Convolutional Neural Networks (CNN) or Generative Adversarial Networks (GANs) can be utilised to produce augmented synthetic images and videos. Whereas in structured data sequences can be generated dynamically using causation and correlation patterns found in real-time dataset(Das A., 2020), (Dilmegani C., 2021).
 
 Synthetic environments for scenario planning is an increasingly popular choice in reinforcement learning applications. Synthetic data generated using [Reingforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) can simulate scenarios that have never been seen before. For instance toolkits such as OpenAI Gym –providing simulation environments to compare and develop unprecedented scenarios and edge-cases in both single and multi-agent context (Gulli, Kapoor & Pal, 2019).
 
+Variation AutoEncoder and Decoder:
+
+
+
+
+
+
+
+
+
+
+
+
+[Generating synthetic data](https://research.aimultiple.com/synthetic-data-generation/)
+
+
 
 ## Use cases
 
-Across industries there are several use cases where synthetic data has proven to be an advantage. 
+## Insurance Usecase
+**Insurance companies** are compelled to make most out of data they collect from users as a result of digitisation, intense competition and a new set of emerging risks. However, their ability to do so is constrained by stringent privacy concerns, regulations, and legacy technology.
 
-For examle Machine Learning algorithms are often used in fraud detection systems to classify legitimacy of financial transactions.
+## Financial usecase
 
-Think of clicinal trial management which would require a large cohort size from a wide range of demography and rigourous trials prior to scientific and medical acceptance. This process can be time consuming and legnthy as it will require both volume and variety of both clinical and real world data to conduct thorough statistical analysis. In addition to that hidden knowledge within the data collected adds further challenges.
+
+## Health usecase
 
 
 
