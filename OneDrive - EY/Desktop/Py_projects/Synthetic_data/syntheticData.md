@@ -17,7 +17,7 @@
 <br>
 </br>
 
-# Technology trends, 2022
+# Technology Trends, 2022
 
 The benefits of implementing AI in finance is monumnetal. From natural language understanding to chatbots,  and intelligence automation to fraud detection has helped streamline processes and therefore vastly improve customer experience. By 2023, a potential cost saving of [$447 billion](https://www.businessinsider.com/ai-in-banking-report?r=US&IR=T) is estimated in banking alone from AI applications.
 
