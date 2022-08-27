@@ -91,7 +91,7 @@ Synthetic environments for scenario planning is an increasingly popular choice i
 
 ### Variation AutoEncoder and Decoder:
 
-![AutoEncoder](./encoder_decoder.png)
+![AutoEncoder](./encoder_decoder.jpg)
 
 
 ### GAN
