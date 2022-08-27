@@ -85,9 +85,9 @@ The Synthetic data can be shared internally and externally without much concern.
 
 [Model generation diagrams](https://www.statice.ai/post/how-generate-synthetic-data)
 
-Data augmentation is used for creating balanced data to train, validate and evaluate models covering a wide range of use-cases and unforeseen events. For instance,  Convolutional Neural Networks (CNN) or Generative Adversarial Networks (GANs) can be utilised to produce augmented synthetic images and videos. Whereas in structured data sequences can be generated dynamically using causation and correlation patterns found in real-time dataset(Das A., 2020), (Dilmegani C., 2021).
+Data augmentation is often used for creating balanced data to train, validate and evaluate models covering a wide range of use-cases and unforeseen events. For instance,  Convolutional Neural Networks (CNN) or Generative Adversarial Networks (GANs) can be utilised to produce augmented synthetic images and videos. Whereas in structured data sequences can be generated dynamically using causation and correlation patterns found in original dataset(Das A., 2020), (Dilmegani C., 2021).
 
-Synthetic environments for scenario planning is an increasingly popular choice in reinforcement learning applications. Synthetic data generated using [Reingforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) can simulate scenarios that have never been seen before. For instance toolkits such as OpenAI Gym –providing simulation environments to compare and develop unprecedented scenarios and edge-cases in both single and multi-agent context (Gulli, Kapoor & Pal, 2019).
+Synthetic environments for scenario planning is an increasingly popular choice in reinforcement learning applications. Synthetic data generated using [Reingforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) can simulate scenario that was never seen before. For instance toolkit such as OpenAI Gym provide simulation environments to model unprecedented scenarios and edge-cases in both single and multi-agent context (Gulli, Kapoor & Pal, 2019).
 
 ### Variation AutoEncoder and Decoder:
 
@@ -109,7 +109,6 @@ Synthetic environments for scenario planning is an increasingly popular choice i
 [Generating synthetic data 2](https://research.aimultiple.com/synthetic-data-generation/)
 
 
-
 ## Use cases
 
 ## Insurance Usecase
@@ -121,16 +120,27 @@ Synthetic environments for scenario planning is an increasingly popular choice i
 * **Contract management**: Utility of data increases when a model is scaled up to infer large volume of data. With cloud technology this can be achieved easily while complying with data governance policies.
 * **Claim management**: Quickly identify relational and behavioural patterns of users in large volume of data to strengthen fraud detection and claims management. 
 
+"Synthetic insurance data is already being used by European insurers. In Switzerland, insurance company Die Mobiliar validated the use of synthetic churn data in the context of data privacy protection, adding a new tool to their digital transformation toolbox. Public authorities in Europe are also investing in synthetic data, like [in the U.K](https://dataingovernment.blog.gov.uk/2020/08/20/synthetic-data-unlocking-the-power-of-data-and-skills-for-machine-learning/). and Germany. And Gartner is ranking it as a [forward-looking privacy technology](https://www.gartner.com/document/3987903) for the coming years."
+
+## Long term data retention - [**REFERENCE ONLY**]
+
+"The finance sector has received more EU [GDPR fines](https://iapp.org/news/a/study-finance-sector-received-more-gdpr-fines-than-other-industries/#:~:text=A%20recent%20study%20published%20by,the%20processing%20of%20personal%20data.) than any other industry. Non-compliance involves not only fines settlements but also business disruptions, productivity loss, and revenue loss. 
+
+In addition, legacy systems with proprietary formats and siloed IT infrastructures prevent data teams from quickly accessing data due to prolonged data access processes. 
+
+Moreover, even when data is available, its quality might not be sufficient for cutting-edge applications.
+
+To preserve the privacy of their data, financial companies can use synthetic data.
+
+Compliance with personal data processing regulations is a guarantee for enterprises, making it a crucial asset. A bank, for example, would have to delete all personal information and financial information after a customer contract ends to comply with GDPR data retention requirements. 
+
+By using privacy-preserving synthetic data, the enterprise would be able to run the long-term analysis on the synthetic financial data generated during the contract period, and delete the customer information as required by applicable regulations.
+
+The largest companies in the world are starting to work with synthetic data. [Amazon is already using this](https://venturebeat.com/ai/amazon-go-uses-synthetic-data-to-train-cashierless-store-algorithms/) technology to improve customer purchase prediction. [American Express is also exploring](https://fortune.com/2020/09/03/american-express-deepfake-artificial-intelligence/) the topic. The data teams are researching synthetic data to train machine learning and improve their fraud detection algorithms"
+
+# Conclusion
 
 
-
-
-
-
-## Financial usecase
-
-
-## Health usecase
 
 
 
@@ -150,3 +160,7 @@ Refs:
 [4] [Effect of balancing data using synthetic data on the performance of machine learning classifiers for Intrusion Detection in Computer Networks](https://arxiv.org/pdf/2204.00144.pdf)
 
 [5] [Synthetic data to support financial services innovation](https://www.fca.org.uk/publication/call-for-input/synthetic-data-to-support-financial-services-innovation.pdf)
+
+[6] [How do you generate synthetic data?](https://www.statice.ai/post/how-generate-synthetic-data)
+
+[7] [Usecases in various industry - Reference only](https://www.dataversity.net/synthetic-data-4-use-cases-in-modern-enterprises/#)
