@@ -93,11 +93,15 @@ Synthetic environments for scenario planning is an increasingly popular choice i
 
 VAE is belongs to a family of generative models which works with both supervised and unsupervised data. It uses probability to describe data distribution in latent space. We input real data into the Encoder which outputs data in form of vector belonging to a latent distribution. This vector is then fed to Decoder which reconstructs the data that was originally fed to the encoder. The system learns to optimises correlation between input and output of the data using iterativive optimisation process. 
 
-
 ![AutoEncoder](./encoder_decoder.jpg)
 
-
 ### GAN
+
+Generative Adverserial Networks(GAN) belongs to a family of deep learning models and is used to generate synthetic data, including tabular data, images, and sound/speech data.
+
+GANs are used to generate synthetic data that mimics real data. This model includes a training process that involves pitting two neural networks, a Generator and a Discriminator, against each other. The Generator is used for generating synthetic data and the Discriminator's role is to distinguish between real and synthetic data. This is done in an iterative manner such that output of the overall model improves with number of iterations. In the paper ["Data Synthesis based on Generative Adversarial Networks"](http://www.vldb.org/pvldb/vol11/p1071-park.pdf), researchers have proposed table-GAN to synthesise tabular data by preserving statistical properties of the original data while minimizing information leakage. ML/AI models thereafter can be trained using synthetic data. 
+
+When training a model with Synthetic data, often trade-off exists between the data privacy (information leakage) and the model accuracy. In other words, a higher privacy level leads to lower degree of model compatibility as statistical attributes of the synthetic data differ greatly when privacy levels are set high. This is an ever evolving areas of research but so far it has shown promising results in generating synthetic data. 
 
 ![GAN](./GAN.png)
 
