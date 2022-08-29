@@ -89,7 +89,10 @@ Data augmentation is often used for creating balanced data to train, validate an
 
 Synthetic environments for scenario planning is an increasingly popular choice in reinforcement learning applications. Synthetic data generated using [Reingforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) can simulate scenario that was never seen before. For instance toolkit such as OpenAI Gym provide simulation environments to model unprecedented scenarios and edge-cases in both single and multi-agent context (Gulli, Kapoor & Pal, 2019).
 
-### Variation AutoEncoder and Decoder:
+### Variation Autoencoder (VAE):
+
+VAE is belongs to a family of generative models which works with both supervised and unsupervised data. It uses probability to describe data distribution in latent space. We input real data into the Encoder which outputs data in form of vector belonging to a latent distribution. This vector is then fed to Decoder which reconstructs the data that was originally fed to the encoder. The system learns to optimises correlation between input and output of the data using iterativive optimisation process. 
+
 
 ![AutoEncoder](./encoder_decoder.jpg)
 
