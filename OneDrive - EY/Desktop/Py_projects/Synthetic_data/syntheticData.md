@@ -136,13 +136,11 @@ Public authorities in Europe are also investing in synthetic data, like [Call fo
 
 [A global survey](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/) by EY and Cambridge University revealed that Risk management represneted the leading AI implementation area in early 2020, followed by the generation of revenue potential through new products and processes.  The survey also revealed of 'Technological Maturity' as one of the key concerns in AI implementation. Where legacy systems with proprietary formats and siloed IT infrastructures prevent data teams from quickly accessing the data. And where data is available the quality of data is the biggest concern. 
 
-* **Transactional Analysis and Risk Monitoring** : High accuracy in transaction based time-series data can help banks reliably microsegement customers based on value at risk and prevent default, while preserving privacy-sensitive information.
+* **Transactional Analysis and Risk Monitoring** : High accuracy in transaction based time-series data can help banks reliably microsegement customers based on value at risk and prevent default.
 
-* **Cybersecurity and the Zero-Trust Data Model**: Improving CyberSecurity in the age of Zero Trust cybersecurity requires upsampling of data to detect anomalies and detect adversarial intrusion. Synthetic data along with high-performing AI system can help upsampling of configuration management databases to prevent such attack.
+* **Cybersecurity and the Zero-Trust Data Model**: Improving CyberSecurity in the age of Zero Trust cybersecurity requires upsampling of data in order to detect anomalies. Using synthetic data in high-performing AI system can help upsampling of data such that various unforeseen security issues can be addressed in a timely manner. 
 
-* **Fraud Detection** : 
-
-
+* **Fraud Detection** : Fraud and money laundering operations are incredibly versatile and getting more sophisticated every day. Banks can simulate various fraud profiles using synthetic data and train ML model with a greater accuracy. Continuous improvement in a fraud detection system can help banks avoid costs associated with both false positives and false negatives.
 
 By using privacy-preserving synthetic data, the enterprise would be able to run the long-term analysis on the synthetic financial data generated during the contract period, and delete the customer information as required by applicable regulations.
 
@@ -157,7 +155,7 @@ The largest companies in the world are starting to work with synthetic data. [Am
 
 ## Refs:
 
-[A BasisEvolution framework for network traffic anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S1389128618300331)
+[A BasisEvolution framework for  network traffic anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S1389128618300331)
 
 [Money Laundering Detection using Synthetic Data](https://www.diva-portal.org/smash/get/diva2:834701/FULLTEXT01.pdf)
 
