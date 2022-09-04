@@ -123,29 +123,35 @@ A divide-and-conquer approach works in three phases. Firstly, it splits the inpu
 ## Insurance Usecase
 **Insurance companies** are compelled to make most out of data they collect from users as a result of digitisation, intense competition and a new set of emerging risks. However, their ability to do so is constrained by strict privacy concerns, regulatory compliance, and legacy technology. Furthermore, regulatory developments such as [proposal to regulate AI systems](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) ,released by European Commission require fast adoptation from insurance players. Synthetic data can help insurers address some of their data processing challenges.
 
-* **Product Development**: Identify, develop and tests customer-facing products and services at speed while complying with the strictest privacy framework.
-* **Sales**: By enabling secure exchange of real-time information across insurance companies can improvement user experience boosting customer conversion rate.
-* **Underwriting**: Improve accuracy in underwriting process by modeling risks on balanced datasets with a greater control over statistical distribution.
-* **Contract management**: Utility of data increases when a model is scaled up to infer large volume of data. With cloud technology this can be achieved easily while complying with data governance policies.
-* **Claim management**: Quickly identify relational and behavioural patterns of users in large volume of data to strengthen fraud detection and claims management. 
+ML solutions have helped insurance companies in filling data gaps by generating synthetic data or by adopting federated learning across their ecosystem - a privacy enhancing technique. 
 
-"Synthetic insurance data is already being used by European insurers. In Switzerland, insurance company Die Mobiliar validated the use of synthetic churn data in the context of data privacy protection, adding a new tool to their digital transformation toolbox. Public authorities in Europe are also investing in synthetic data, like [in the U.K](https://dataingovernment.blog.gov.uk/2020/08/20/synthetic-data-unlocking-the-power-of-data-and-skills-for-machine-learning/). and Germany. And Gartner is ranking it as a [forward-looking privacy technology](https://www.gartner.com/document/3987903) for the coming years."
+* **Product Development**: Identify, develop and tests customer-facing products and services at speed while complying with the strictest privacy framework.
+* **Sales**: By enabling secure exchange of real-time information across ecosystem can improve user experience boosting customer conversion rate.
+* **Underwriting**: Improve accuracy in underwriting process by modeling risks on balanced datasets with a greater control over statistical relations and data imbalance.
+* **Contract Management**: Utility of data increases when a model is scaled up to infer large volume of data. With cloud technologies this can be achieved easily while setting effective governance policies and complying with such policies.
+* **Claim Management**: Quickly identify relational and behavioural patterns of users in large volume of data to strengthen fraud detection and claims management. 
+
+Synthetic insurance data is already being used by number of European insurers. [A swiss insurance company](https://www.swissre.com/risk-knowledge/advancing-societal-benefits-digitalisation/machine-intelligence-in-insurance.html) validated the use of synthetic data in the context of contact less transactions, adding a new tool to their digital transformation toolbox at enterprise level. The company evaluated the performance of ML viability directly by integrating(developing and running - ie. MLOps) and indirectly by assessing benefits and costs. 
+
+Public authorities in Europe are also investing in synthetic data, like [Call for input: Synthetic data to support financial services innovation](https://www.fca.org.uk/publications/calls-input/call-input-synthetic-data-support-financial-services-innovation) by FCA in the U.K, [MAS](https://www.mas.gov.sg/news/media-releases/2022/mas-led-industry-consortium-publishes-assessment-methodologies-for-responsible-use-of-ai-by-financial-institutions) in singapore and Germany. And Gartner is ranking it as a [forward-looking privacy technology](https://www.gartner.com/document/3987903) for the coming years.
 
 ## Long term data retention - [**REFERENCE ONLY**]
 
-"The finance sector has received more EU [GDPR fines](https://iapp.org/news/a/study-finance-sector-received-more-gdpr-fines-than-other-industries/#:~:text=A%20recent%20study%20published%20by,the%20processing%20of%20personal%20data.) than any other industry. Non-compliance involves not only fines settlements but also business disruptions, productivity loss, and revenue loss. 
+"The finance sector has received more EU [GDPR fines](https://iapp.org/news/a/study-finance-sector-received-more-gdpr-fines-than-other-industries/#:~:text=A%20recent%20study%20published%20by,the%20processing%20of%20personal%20data.) than any other industry. Non-compliance does not only involve hard cost such as financial penalties in fines but also involves soft costs such as trust and reputational damage leading to revenue loss.
 
-In addition, legacy systems with proprietary formats and siloed IT infrastructures prevent data teams from quickly accessing data due to prolonged data access processes. 
+[A global survey](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/transforming-paradigms/) by EY and Cambridge University revealed that Risk management represneted the leading AI implementation area in early 2020, followed by the generation of revenue potential through new products and processes.  The survey also revealed of 'Technological Maturity' as one of the key concerns in AI implementation. Where legacy systems with proprietary formats and siloed IT infrastructures prevent data teams from quickly accessing the data. And where data is available the quality of data is the biggest concern. 
 
-Moreover, even when data is available, its quality might not be sufficient for cutting-edge applications.
+* **Transactional Analysis and Risk Monitoring** : High accuracy in transaction based time-series data can help banks reliably microsegement customers based on value at risk and prevent default, while preserving privacy-sensitive information.
 
-To preserve the privacy of their data, financial companies can use synthetic data.
+* **Cybersecurity and the Zero-Trust Data Model**: Improving CyberSecurity in the age of Zero Trust cybersecurity requires upsampling of data to detect anomalies and detect adversarial intrusion. Synthetic data along with high-performing AI system can help upsampling of configuration management databases to prevent such attack.
 
-Compliance with personal data processing regulations is a guarantee for enterprises, making it a crucial asset. A bank, for example, would have to delete all personal information and financial information after a customer contract ends to comply with GDPR data retention requirements. 
+* **Fraud Detection** : 
+
+
 
 By using privacy-preserving synthetic data, the enterprise would be able to run the long-term analysis on the synthetic financial data generated during the contract period, and delete the customer information as required by applicable regulations.
 
-The largest companies in the world are starting to work with synthetic data. [Amazon is already using this](https://venturebeat.com/ai/amazon-go-uses-synthetic-data-to-train-cashierless-store-algorithms/) technology to improve customer purchase prediction. [American Express is also exploring](https://fortune.com/2020/09/03/american-express-deepfake-artificial-intelligence/) the topic. The data teams are researching synthetic data to train machine learning and improve their fraud detection algorithms"
+The largest companies in the world are starting to work with synthetic data. [Amazon is already using this](https://venturebeat.com/ai/amazon-go-uses-synthetic-data-to-train-cashierless-store-algorithms/) technology to improve customer purchase prediction. [American Express is also researching](https://fortune.com/2020/09/03/american-express-deepfake-artificial-intelligence/)  synthetic data to train machine learning and improve their fraud detection algorithms.
 
 # Conclusion
 
@@ -154,10 +160,11 @@ The largest companies in the world are starting to work with synthetic data. [Am
 
 
 
-Refs:
+## Refs:
+
 [A BasisEvolution framework for network traffic anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S1389128618300331)
 
-[Money Laundering Detection using Synthetic Dat](https://www.diva-portal.org/smash/get/diva2:834701/FULLTEXT01.pdf)
+[Money Laundering Detection using Synthetic Data](https://www.diva-portal.org/smash/get/diva2:834701/FULLTEXT01.pdf)
 
 [A Copula based Framework for Generating Synthetic Data from Aggregated Sources](https://ieeexplore.ieee.org/abstract/document/9346329)
 
