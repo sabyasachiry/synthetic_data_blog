@@ -91,7 +91,7 @@ Synthetic environments for scenario planning is an increasingly popular choice i
 
 ### Variation Autoencoder (VAE):
 
-VAE is belongs to a family of generative models which works with both supervised and unsupervised data. It uses probability to describe data distribution in latent space. We input real data into the Encoder which outputs data in form of vector belonging to a latent distribution. This vector is then fed to Decoder which reconstructs the data that was originally fed to the encoder. The system learns to optimises correlation between input and output of the data using iterativive optimisation process. 
+VAE belongs to a family of generative models which works with both supervised and unsupervised data. It uses probability to describe data distribution in the latent space. We input real data into the Encoder which outputs data in form of vectors belonging to a latent distribution. This vector is then fed to Decoder which reconstructs the data that was originally fed to the encoder. The system learns to optimises correlation between input and output of the data using iterativive optimisation process. 
 
 ![AutoEncoder](./encoder_decoder.jpg)
 
@@ -106,7 +106,9 @@ When training a model with Synthetic data, often trade-off exists between the da
 ![GAN](./GAN.png)
 
 
-### Divide & Conquer 
+### Divide-and-Conquer
+
+A divide-and-conquer approach works in three phases. Firstly, it splits the input data into several subsets recursively by leveraging parallelism. At this stage it takles each smaller subset while preserving linkages to the real data. And finally during the third phase, using algorithmic approach, it recursively synthesize the data until they formulate a solution of the original problem. This is a commonly used method and uses distributed computing techniques to produce synthetic data, both supervised and unsupervised, while applying various machine learning techniques such as clustering. 
 
 ![Divide & Conquer](./devide_and_conquer.png)
 
