@@ -113,12 +113,7 @@ A divide-and-conquer approach works in three phases. Firstly, it splits the inpu
 ![Divide & Conquer](./devide_and_conquer.png)
 
 
-[Generating Synthetic data 1](https://research.aimultiple.com/synthetic-data-generation/)
-
-[Generating synthetic data 2](https://research.aimultiple.com/synthetic-data-generation/)
-
-
-## Use cases
+# Use cases in Financial Services
 
 ## Insurance Usecase
 **Insurance companies** are compelled to make most out of data they collect from users as a result of digitisation, intense competition and a new set of emerging risks. However, their ability to do so is constrained by strict privacy concerns, regulatory compliance, and legacy technology. Furthermore, regulatory developments such as [proposal to regulate AI systems](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) ,released by European Commission require fast adoptation from insurance players. Synthetic data can help insurers address some of their data processing challenges.
